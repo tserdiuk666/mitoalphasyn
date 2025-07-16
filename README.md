@@ -1,1 +1,3 @@
 # mitoalphasyn
+
+## About the code
