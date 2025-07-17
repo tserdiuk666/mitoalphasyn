@@ -19,9 +19,9 @@ This repository contains R scripts used for the analysis and visualization of Li
 
 ---
 
-##  1. Structural_proteomics_analysis
+##  1. Structural proteomics analysis
 
-**Script:** `Structural_proteomics_analysis.R`
+**Script:** `Proteomics_analysis_and_plot.R`
 
 This script performs statistical testing on proteomics data on a peptide level using median normalization and two-sample t-tests. It generates volcano plots and computes adjusted p-values using Benjamini-Hochberg correction.
 
