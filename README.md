@@ -9,7 +9,7 @@ This repository contains R scripts used for the analysis and visualization of Li
 
 ```
 .
-├── Structural_proteomics_analysis.R   # Median-normalized t-tests + volcano plot
+├── Proteomics_analysis_and_plot.R   # Median-normalized t-tests + volcano plot
 ├── Figure_4b_barplot.R                 # Grouped bar plot with error bars and jitter
 ├── Figure_4c_g_lineplot.R             # Time-series plots for deltaC and controls
 ├── Source_data/                        # Input Excel files and raw data
